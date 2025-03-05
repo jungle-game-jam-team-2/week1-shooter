@@ -1,0 +1,4 @@
+C:\Users\KBJ\source\Week0\x64\Debug\Week0.exe
+C:\Users\KBJ\source\Week0\x64\Debug\Week0.vcxproj.MdMergeInputs.cache
+C:\Users\KBJ\source\Week0\x64\Debug\Week0.vcxproj.cppwinrt_plat.cache
+C:\Users\KBJ\source\Week0\x64\Debug\Week0.vcxproj.cppwinrt_comp.cache

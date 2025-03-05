@@ -1,0 +1,3 @@
+C:\Users\Jungle\Downloads\Week0\Week0\x64\Debug\Week0.vcxproj.MdMergeInputs.cache
+C:\Users\Jungle\Downloads\Week0\Week0\x64\Debug\Week0.vcxproj.cppwinrt_plat.cache
+C:\Users\Jungle\Downloads\Week0\Week0\x64\Debug\Week0.vcxproj.cppwinrt_comp.cache

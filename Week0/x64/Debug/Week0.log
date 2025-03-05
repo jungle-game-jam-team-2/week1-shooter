@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\KBJ\source\Week0\URenderer.h(63,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\KBJ\source\Week0\main.cpp(393,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\KBJ\source\Week0\main.cpp(394,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Week0.vcxproj -> C:\Users\KBJ\source\Week0\x64\Debug\Week0.exe
